@@ -1,0 +1,6 @@
+requests
+pandas
+typer
+backoff
+pytest
+playwright
